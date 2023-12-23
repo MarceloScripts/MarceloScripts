@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/dev.to-fff?style=for-the-badge&logo=devdotto&logoColor=blue)]()
 [![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=blue)](https://instagram.com/soft_marcelo?igshid=MTk0NTkyODZkYg%3D%3D&utm_source=qr)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=blue)](linkedin.com/in/marcelo-junior-027715261)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=blue)]([linkedin.com/in/marcelo-junior-027715261](https://www.linkedin.com/in/marcelo-junior-027715261/))
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloScripts&show_icons=true&theme=transparent&bg_color=fff&text_color=000&hide_title=true&hide_stars=true)
 
